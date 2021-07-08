@@ -8,11 +8,26 @@ Even not working with it, I like to know the basics at least.
 
 So Here is some two pictures of the App:
 
+
+
 ### Login
 
 ![Login](https://github.com/KelsonTeixeira/git-native/blob/master/login.jpeg)
 
 
+
 ### User profile
 
 ![User profile](https://github.com/KelsonTeixeira/git-native/blob/master/user.jpeg)
+
+
+
+## To run in your pc:
+
+$ git clone https://github.com/KelsonTeixeira/git-native.git
+
+$ cd git-native
+
+$ yarn
+
+$ yarn start
